@@ -5,6 +5,8 @@
 
 using namespace std;
 
+//text
+
 class ConexionBD
 {
 private: MYSQL* conectar;
